@@ -1,7 +1,3 @@
-Here’s a clean and professional `README.md` for your inventory management web application:
-
----
-
 # 📦 Inventory Management Web Application
 
 ## 📝 Project Description

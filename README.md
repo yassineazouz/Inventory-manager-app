@@ -117,5 +117,3 @@ Here are some sample REST endpoints (customize according to your implementation)
 - Developed by Me
 
 ---
-
-Let me know if you want it in French or if you'd like to add Docker support, screenshots, or deployment instructions!

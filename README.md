@@ -39,7 +39,7 @@ Make sure you have the following installed:
 
 ## ⚙️ Setup Instructions
 
-### Backend (Spring Boot)
+### Backend (Spring Boot) Another Repo
 1. Clone the repository.
 2. Set up your PostgreSQL database and update the connection details in `application.properties`:
    ```properties
@@ -112,7 +112,7 @@ Here are some sample REST endpoints (customize according to your implementation)
 
 ## 🧑‍💻 Author
 
-- Developed by [Your Name or Team Name]
+- Developed by Me
 
 ---
 

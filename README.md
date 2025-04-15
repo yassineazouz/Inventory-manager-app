@@ -1,4 +1,6 @@
 # 📦 Inventory Management Web Application
+![image](https://github.com/user-attachments/assets/c515cef9-922d-41d1-9564-9ddb933d4508)
+Hosted : https://yassine-inventory-management.netlify.app/
 
 ## 📝 Project Description
 
